@@ -5,7 +5,7 @@ import Constants from 'expo-constants';
 
 // Default values (fallback if env vars not set)
 const defaultConfig = {
-    API_URL: 'http://192.168.1.14:8000/api',
+    API_URL: 'http://Local_URL/api',
 };
 
 // Get environment variables from Expo config
